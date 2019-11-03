@@ -35,7 +35,12 @@ layout: default
           {% if page.subtitle %}
           <h2 class="subheading">{{ page.subtitle }}</h2>
           {% endif %}
-          <span class="meta">J / {{ page.date | date: '%B %d, %Y' }}</span>
+          {% assign months = "Enero|Febrero|Marzo|Abril|Mayo|Junio|Julio|Agosto|Septiembre|Octubre|Noviembre|Diciembre" | split: "|" %}
+          {% assign m = page.date | date: "%-m" | minus: 1 %}
+          {% assign day = page.date | date: "%d" %}
+          {% assign month = months[m] %}
+          {% assign year = page.date | date: "%Y" %}
+          <span class="meta">Por {{ page.author }} / {{ day }} de {{ month }} {{ year }}</span>
         </div>
       </div>
     </div>
@@ -61,10 +66,10 @@ layout: default
       <div class="clearfix">
 
         {% if page.previous.url %}
-        <a class="btn btn-primary float-left" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">&larr; Previous<span class="d-none d-md-inline"> Post</span></a>
+        <a class="btn btn-primary float-left" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">&larr; Post<span class="d-none d-md-inline"> Anterior</span></a>
         {% endif %}
         {% if page.next.url %}
-        <a class="btn btn-primary float-right" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">Next<span class="d-none d-md-inline"> Post</span> &rarr;</a>
+        <a class="btn btn-primary float-right" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">Post<span class="d-none d-md-inline"> Siguiente</span> &rarr;</a>
         {% endif %}
 
       </div>
