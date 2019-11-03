@@ -7,9 +7,9 @@ url:               "http://squarezero.github.io/"
 baseurl:
 
 # Social Profiles
-#twitter_username:  SBootstrap
+twitter_username: uncuentoporsemana
 github_username: ariel17
-#facebook_username: StartBootstrap
+facebook_username: uncuentoporsemana
 
 # Build settings
 markdown:          kramdown

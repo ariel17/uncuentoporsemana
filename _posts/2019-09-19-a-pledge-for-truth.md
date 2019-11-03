@@ -4,6 +4,7 @@ background: https://cdnb.artstation.com/p/assets/images/images/019/030/293/large
 layout: post
 artist: artstation.com/bakiyaraj
 subtitle: Pursuits.
+comments: true
 ---
 
 Alright, I'm going to embarrass myself again, but here we go.
