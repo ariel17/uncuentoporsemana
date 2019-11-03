@@ -1,5 +1,7 @@
 # Un cuento por semana
 
+![Logo](./screenshot.png)
+
 Translates to "A short story per week". A place where I can practice my
 writting skills.
 
