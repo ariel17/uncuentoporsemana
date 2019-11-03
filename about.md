@@ -9,15 +9,17 @@ background: "/assets/about/bg.jpg"
 
 <div class="row" style="margin-top:1em;">
   <div class="col-sm-12 col-md-5" style="margin-right:-2em;">
-    <img style="width:90%" src="/assets/about/us.png" />
+    <img style="width:90%" src="{{ '/assets/about/us.png' | prepend: site.baseurl | replace: '//', '/' }}" />
   </div>
   <div class="col-sm-12 col-md-6">
     <p>
-      If you've made it here, you're awesome.
+      Hablar sobre nosotros.
       <br />
-      Showering blessings on you.
       <br />
-      Don't need to share anything within 5 seconds.
+      Quiénes somos y qué queremos.
+      <br />
+      <br />
+      Bienvo?
     </p>
   </div>
 </div>
