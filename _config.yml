@@ -1,14 +1,14 @@
 title:             Un cuento por semana
-email:             sssurajsuraj@gmail.com
+email:             uncuentoporsemana@gmail.com
 description:       Fantasía, infantil, horror y todo lo demás.
-author:            J
+author:            Martín Gabriel Ríos & Ariel Gerardo Ríos
 #url:               "localhost:4000"
 url:               "http://squarezero.github.io/"
 baseurl:
 
 # Social Profiles
 #twitter_username:  SBootstrap
-#github_username:   BlackrockDigital
+github_username: ariel17
 #facebook_username: StartBootstrap
 
 # Build settings
