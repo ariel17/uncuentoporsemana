@@ -42,7 +42,7 @@ layout: default
                   <div class="post-text-header">
                     <h2 class="post-title">{{ post.title }}</h2>
                     <p class="post-meta">
-                      {{ post.date | date: '%B %d, %Y' }}
+                      Por {{ post.author }} / {{ post.date | spanish_format }}
                     </p>
                     </div>
                   {% if post.subtitle %}
