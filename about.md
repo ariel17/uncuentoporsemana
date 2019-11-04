@@ -24,4 +24,3 @@ background: "/assets/about/bg.jpg"
   </div>
 </div>
 <br />
-<br />
