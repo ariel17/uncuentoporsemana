@@ -23,6 +23,27 @@ Crecimos y aprendimos. No teníamos otra opción.
 
 TODO
 
+A medida que Daniel se hacía más grande, su obsesión con el mar lo acompañaba
+en cada aspecto.
+
+En una de las tantas sesiones de kinesiología, revisiones médicas y
+tratamientos, conocí a otros padres con niños que padecían la enfermedad.
+
+TODO
+
+-- Y dígame, ¿ya le habló del mar?
+
+Lo miré sin saber qué decir. Su mirada sin embargo me transmitía que había algo
+no le permitía dormir bien por las noches.
+
+-- ¿Cómo lo sabe? 
+
+-- Esta enfermedad no es sólo un problema en la sangre. --Me posó muy suave su
+mano sobre las mías cruzadas-- Yo vengo los miércoles y viernes. Hablemos,
+porque acá no le dirán lo que se.
+
+TODO
+
 Abrió los ojos lentamente y de la misma manera, se ayudó con los brazos para
 sentarse en la cama.
 
