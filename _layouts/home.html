@@ -36,7 +36,7 @@ layout: default
             <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
               <div class="post-container">
                 <div class="post-img-container" title="Image by {{post.artist}}">
-                  <img class="post-img" src={{post.background}}>
+                  <img class="post-img" src="{{ post.background | prepend: site.baseurl | replace: '//', '/' }}">
                 </div>
                 <div class="post-text">
                   <div class="post-text-header">
