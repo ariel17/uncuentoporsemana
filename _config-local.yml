@@ -3,7 +3,7 @@ email: uncuentoporsemana@gmail.com
 description: Fantasía, infantil, horror y todo lo demás.
 author: Martín Gabriel Ríos & Ariel Gerardo Ríos
 url: "http://localhost:4000"
-baseurl: "/"
+baseurl: ""
 
 # Social Profiles
 twitter_username: uncuentoporsemana
