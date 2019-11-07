@@ -17,30 +17,63 @@ los doctores también sabían que era especial y no porque fuera el primero.
 -- Tiene Hemofilia A Severa.
 
 No sabíamos nada de esta enfermedad. Bah, sí sabíamos, pero nos sonaba tan
-lejano como los reyes del siglo XVI... y ahora estaba en nuestras vidas.
+lejano como los reyes del siglo XVI... y ahora estaba en nuestras vidas. No
+había cura, ni tratamiento; sólo tratar de hacerle la vida más fácil y soportar
+los dolores entre todos. La esperanza de vida era muy corta.
 
-Crecimos y aprendimos. No teníamos otra opción.
-
-TODO
+Crecimos juntos y aprendimos. No teníamos otra opción.
 
 A medida que Daniel se hacía más grande, su obsesión con el mar lo acompañaba
 en cada aspecto.
 
-En una de las tantas sesiones de kinesiología, revisiones médicas y
-tratamientos, conocí a otros padres con niños que padecían la enfermedad.
+En una de las tantas sesiones de kinesiología, revisiones médicas. Conocí a
+otros padres con niños que padecían la enfermedad. Había uno en particular, que
+se reunía con otros padres pero nunca lo veía con un niño. Tampoco hablaba con
+nosotros más que un saludo, hasta el día que Daniel cumplió 7 años. Como cada 3
+días a la semana, ese miércoles estábamos allí por un tobillo rebelde que se
+resistía a curarse. La torta y las velitas tenían que esperar.
 
-TODO
+Traté de entablar una conversación casual, más que nada para no ser descortés,
+pero a mí me cuesta hablar de la lluvia o el calor cuando en realidad no tengo
+nada que decir. De todas maneras no estaba logrando obtener su atención porque
+no sacaba sus ojos de Daniel desde donde estaba sentado.
 
--- Y dígame, ¿ya le habló del mar?
+-- Dígame, ¿ya le habló del mar? --me dijo.
 
-Lo miré sin saber qué decir. Su mirada sin embargo me transmitía que había algo
-no le permitía dormir bien por las noches.
+Lo miré atontado porque me tomó de sorpresa. Su mirada sin embargo me
+transmitía que había algo no le permitía dormir bien por las noches.
 
 -- ¿Cómo lo sabe? 
 
 -- Esta enfermedad no es sólo un problema en la sangre. --Me posó muy suave su
 mano sobre las mías cruzadas-- Yo vengo los miércoles y viernes. Hablemos,
 porque acá no le dirán lo que se.
+
+Lo dejamos a Daniel leyendo una revista de viajes en el hospital, mientras
+seguían atendiendo su tobillo con magnetos. Era viernes. Fuimos con mi esposa
+al café acordado y ahí estaba ya esperándonos.
+
+-- Por favor, díganos lo que sabe.
+
+-- Lo haré, pero sepan que lo hago para que sepan que no están solos. Yo no
+tuve a nadie hace muchos años.
+
+-- ¿No había un grupo de padres entonces?
+
+-- Nadie que hiciera lo que yo hago. Este grupo de padres... es útil para el
+comienzo, pero nada más.
+
+Mi esposa lloraba adelantándose al final de la historia. Yo también quería
+hacerlo, pero quería escucharlo.
+
+-- Su hijo no les pertenece. El mar un día se lo llevará.
+
+-- ... ¿Qué?
+
+No voy a negar que esperaba una fatalidad, pero lo que me dijo no tenía
+sentido.
+
+
 
 TODO
 
@@ -67,3 +100,8 @@ caímos de espalda. Aún sonaba el vidrio resquebrajándose en la arena por el
 calor, cuando volví mi vista hacia la playa.
 
 Había desaparecido. Sus huellas todavía se las estaba llevando la marea.
+
+Y luego, pasaron los años. Venimos con mi esposa todas las tardes. Pero no se
+qué buscamos. Quizás esperamos que nos vengan a buscar, porque no estamos
+solos. Hay más padres en la playa, aquí y allá, a lo lejos. Aprendimos a
+verlos, aunque no nos decimos nada. Cuando el mar ruge, sólo queremos escuchar.
