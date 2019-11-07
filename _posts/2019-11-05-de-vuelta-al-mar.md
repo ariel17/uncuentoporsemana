@@ -15,7 +15,7 @@ entender.
 Una vez tuve un hijo. Se llamaba Daniel. Cuando nació supimos que era especial;
 los doctores también sabían que era especial y no porque fuera el primero.
 
--- Tiene Hemofilia A Severa.
+-- Tiene Síndrome de Marshal-Anguer.
 
 No sabíamos nada de esta enfermedad. Nos sonaba tan lejano como los reyes del
 siglo XVI... y ahora estaba en nuestras vidas. No había cura, ni tratamiento;
@@ -24,7 +24,7 @@ esperanza de vida era muy corta.
 
 Crecimos juntos y aprendimos. ¿Qué otra opción teníamos?
 
-Pero si bien la hemofilia nos privaba de andar en bicicleta o correr o patear
+Pero si bien el síndrome nos privaba de andar en bicicleta o correr o patear
 pelotas, nos permitió saber que Daniel dibujaba muy bien el mismo patrón en el
 papel: una línea como horizonte, una parte azul o amarilla y un círculo
 amarillo. La puerta de la heladera se llenó de estos paisajes.
