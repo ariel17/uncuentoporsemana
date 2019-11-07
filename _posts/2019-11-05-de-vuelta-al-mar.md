@@ -1,7 +1,7 @@
 ---
 layout: post
 title: De vuelta al mar
-date: 2019-11-05 22:41 -0300
+date: 2019-11-07 18:15 -0300
 background: /assets/post/mar.jpg
 author: Ariel Gerardo Ríos
 artist: Ariel Gerardo Ríos
