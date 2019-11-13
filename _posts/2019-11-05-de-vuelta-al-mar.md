@@ -23,7 +23,7 @@ siglo XVI... y ahora estaba en nuestras vidas. No había cura, ni tratamiento;
 sólo tratar de hacerle la vida más fácil y soportar los dolores entre todos. La
 esperanza de vida era muy corta.
 
-Crecimos juntos y aprendimos. ¿Qué otra opción teníamos?
+Crecimos juntos y aprendimos. ¿Qué otra cosa podíamos hacer?
 
 Pero si bien el síndrome nos privaba de andar en bicicleta o correr o patear
 pelotas, nos permitió saber que Daniel dibujaba muy bien el mismo patrón en el
@@ -39,7 +39,7 @@ resistía a curarse. La torta y las velitas tenían que esperar.
 
 Traté de entablar una conversación casual, más que nada para no ser descortés,
 pero a mí me cuesta hablar de la lluvia o el calor cuando en realidad no tengo
-nada que decir. De todas maneras no estaba logrando obtener su atención porque
+nada qué decir. De todas maneras no estaba logrando obtener su atención porque
 no sacaba sus ojos de Daniel desde donde estaba sentado.
 
 -- Dígame, ¿ya le habló del mar? --me dijo.
@@ -54,13 +54,13 @@ mano sobre las mías cruzadas-- Yo vengo los miércoles y viernes. Hablemos,
 porque acá no le dirán lo que se.
 
 Lo dejamos a Daniel leyendo una revista de viajes en el hospital, mientras
-seguían atendiendo su tobillo con magnetos. Era viernes. Fuimos con mi esposa
-al café acordado y ahí estaba ya esperándonos.
+seguían atendiendo su tobillo con magnetos; era viernes. Fuimos con mi esposa
+al café acordado y ahí estaba esperándonos.
 
 -- Por favor, díganos lo que sabe.
 
--- Lo haré, pero sepan que lo hago para que sepan que no están solos. Yo no
-tuve a nadie hace muchos años.
+-- Lo haré, pero sepan que lo hago porque no están solos. Yo no tuve a nadie
+hace muchos años.
 
 -- ¿No había un grupo de padres entonces?
 
@@ -104,16 +104,17 @@ grande como una necesidad.
 Pero tardé 2 años más en convencer a mi esposa que dejáramos todo a vivir a la
 playa.
 
-Cuando llegamos ese domingo a la costa y Daniel sintió el olor a mar sus ojos
-se cerraron y respiró tan hondo que una lágrima cayó por su mejilla. Nunca lo
-habíamos visto llorar, ni por los golpes, ni por hambre cuando era bebé.
+Cuando llegamos ese domingo a la costa, el viento le acarició el pelo suave en
+su frente. Daniel sintió el olor a sal y sus ojos se cerraron y respiró tan
+hondo que una lágrima cayó por su mejilla. Nunca lo habíamos visto llorar, ni
+por los golpes, ni por hambre cuando era bebé.
 
 Había una tormenta acercándose.
 
 Se acercó de a poco al mar picado. No había nadie en la playa, estábamos solos.
-Ni siquiera estaba el Sol. A medida que se acercaba, la ropa iba cayendo sobre
-la arena y se quedó desnudo mirando cómo el cielo se unía con el agua en la
-distancia, escuchando el romper de las olas.
+Ni siquiera estaba el Sol. A medida que se acercaba, se quitaba la ropa que iba
+cayendo sobre la arena y desnudo se quedó mirando cómo el cielo se unía con el
+agua en la distancia, escuchando el romper de las olas.
 
 Un relámpago cayó a pocos metros nuestro, con un estruendo tan fuerte que nos
 caímos de espalda. La luz me encegueció y no podía ver a Daniel. Aún sonaba el
