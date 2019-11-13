@@ -36,6 +36,9 @@ layout: default
           <h2 class="subheading">{{ page.subtitle }}</h2>
           {% endif %}
           <span class="meta">Por {{ page.author }} / {{ page.date | spanish_format }}</span>
+          {% for tag in page.tags %}
+            <span class="badge badge-info">{{ tag }}</span>
+          {% endfor %}
         </div>
       </div>
     </div>
