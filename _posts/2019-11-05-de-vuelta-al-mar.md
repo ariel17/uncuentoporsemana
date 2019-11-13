@@ -7,6 +7,7 @@ author: Ariel Gerardo Ríos
 artist: Ariel Gerardo Ríos
 subtitle: Un niño que esconde algo muy grande en su corazón.
 comments: true
+tags: [ficción, misterio]
 ---
 
 El rugido de las olas en el mar me canta una canción que toda mi vida quise
