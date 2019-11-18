@@ -1,15 +1,16 @@
 ---
 layout: post
 title: Amar de nuevo
-background: /assets/post/israel-holtzhausen-x.jpg
+background: "/assets/post/israel-holtzhausen-x.jpg"
 author: Ariel Gerardo Ríos
 artist: artstation.com/izzykeyart
 subtitle: El precio a pagar por amar de nuevo puede ser muy alto.
 comments: true
-tags: [ficción, misterio]
-
+tags:
+- ficción
+- misterio
+date: 2019-11-18 01:22 -0300
 ---
-
 Cuando el mundo era infinito y estaba lleno de magia y oscuridad, cuando los
 bordes de los países se borraban sobre el papel y se trazaban de nuevo, había
 un príncipe que lo tenido todo. Era joven y su ambición también; conquistó
