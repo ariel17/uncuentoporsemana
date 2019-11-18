@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Amar de nuevo
+title: Amor, ámame
 background: "/assets/post/israel-holtzhausen-x.jpg"
 author: Ariel Gerardo Ríos
 artist: artstation.com/izzykeyart
-subtitle: El precio a pagar por amar de nuevo puede ser muy alto.
+subtitle: El precio a pagar por un amor puede ser muy alto.
 comments: true
 tags:
 - ficción
