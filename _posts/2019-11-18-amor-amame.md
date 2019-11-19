@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Amor, ámame
-background: "/assets/post/israel-holtzhausen-x.jpg"
+background: "/assets/post/ramon-tuero-lonely-hiker-ramon-tuero.jpg"
 author: Ariel Gerardo Ríos
-artist: artstation.com/izzykeyart
+artist: www.artstation.com/ramontd
 subtitle: El precio a pagar por un amor puede ser muy alto.
 comments: true
 tags:
