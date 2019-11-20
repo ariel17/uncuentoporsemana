@@ -4,6 +4,7 @@ description: Fantasía, infantil, horror y todo lo demás.
 author: Martín Gabriel Ríos & Ariel Gerardo Ríos
 url: "http://localhost:4000"
 baseurl: ""
+timezone: America/Argentina/Buenos_Aires
 
 # Social Profiles
 twitter_username: uncuentoporsemana
