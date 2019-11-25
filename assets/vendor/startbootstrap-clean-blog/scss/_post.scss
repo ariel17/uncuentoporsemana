@@ -45,10 +45,10 @@
             font-family: 'Source Sans Pro';
             font-size: 0.8em;
             margin: 10px 0 0;
-            color: rgba(255,255,255,.6);
+            color: white;
             > a {
               text-decoration: none;
-              color: $gray-600;
+              color: $primary;
             }
           }
         }
@@ -57,7 +57,7 @@
           margin: 0;
         }
         > .post-subtitle {
-          color: rgba(255,255,255,.6);
+          color: white;
           font-weight: 300;
           margin: 10px 0 10px;
           line-height: 1.7;
