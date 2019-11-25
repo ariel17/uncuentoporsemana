@@ -17,7 +17,6 @@ background: "/assets/about/bg.jpg"
       leer nos dieron ganas de aprender a escribir cuentos. Unimos nuestras
       fuerzas para hacer <em>Un Cuento Por Semana</em> y crear un lugar donde
       podamos expresar nuestra forma de ver el mundo y las personas.
-      <br />
     </p>
   </div>
 </div>
@@ -36,12 +35,35 @@ la mayoría) nunca conocían el final, pensamos que ya era hora de materializar
 nuestro hobbie y también de superar nuestras propias barreras. Y quién sabe,
 tal vez publicar un libro :). ¡Ya veremos!
 
+<br />
+
 # Sobre Martín
 
-TODO
+<div class="row" style="margin-top:1em;">
+  <div class="col-sm-12 col-md-5" style="margin-right:-2em;">
+    <img style="width:70%" src="{{ '/assets/about/martin.jpg' | prepend: site.baseurl | replace: '//', '/' }}" />
+  </div>
+  <div class="col-sm-12 col-md-6">
+    <p>
+      TODO
+    </p>
+  </div>
+</div>
+<br />
 
 # Sobre Ariel
 
-TODO
+<div class="row" style="margin-top:1em;">
+  <div class="col-sm-12 col-md-5" style="margin-right:-2em;">
+    <img style="width:70%" src="{{ '/assets/about/ariel.jpg' | prepend: site.baseurl | replace: '//', '/' }}" />
+  </div>
+  <div class="col-sm-12 col-md-6">
+    <p>
+      TODO
+    </p>
+  </div>
+</div>
+<br />
+<br />
 
 [1]: https://www.yorokobu.es/proyecto-bradbury/
