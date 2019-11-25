@@ -6,6 +6,9 @@ url: "http://localhost:4000"
 baseurl: ""
 timezone: America/Argentina/Buenos_Aires
 
+# Google Analytics
+ga:
+
 # Social Profiles
 twitter_username: uncuentoporsemana
 github_username: ariel17/uncuentoporsemana

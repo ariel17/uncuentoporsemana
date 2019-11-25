@@ -2,9 +2,12 @@ title: Un cuento por semana
 email: uncuentoporsemana@gmail.com
 description: Fantasía, infantil, horror y todo lo demás.
 author: Martín Gabriel Ríos & Ariel Gerardo Ríos
-url: "http://ariel17.com.ar"
-baseurl: "/uncuentoporsemana"
+url: http://ariel17.com.ar
+baseurl: /uncuentoporsemana
 timezone: America/Argentina/Buenos_Aires
+
+# Google Analytics
+ga: UA-153315423-1
 
 # Social Profiles
 twitter_username: uncuentoporsemana
@@ -14,7 +17,7 @@ facebook_username: uncuentoporsemana
 # Build settings
 markdown: kramdown
 paginate: 10
-paginate_path: "/posts/page:num/"
+paginate_path: /posts/page:num/
 plugins:
   - jekyll-feed
   - jekyll-paginate

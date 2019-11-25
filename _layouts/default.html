@@ -14,6 +14,10 @@
 
     {% include scripts.html %}
 
+    {% if site.ga %}
+      {% include ga.html %}
+    {% endif %}
+
   </body>
 
 </html>
