@@ -7,8 +7,9 @@ artist: artstation.com/jackwdowell
 subtitle: Ya no estarán solos.
 comments: true
 tags: [ficción]
-
 ---
+
+*Para mi Papá Juan Carlos Ríos, que siempre es una fuente de inspiración.*
 
 Probando-- 1, 2, 3. Estamos listos.
 
