@@ -17,10 +17,10 @@ date: 2019-12-02 02:38 -0300
 Probando-- 1, 2, 3. Estamos listos.
 
 Esta es la estación radio-faro en la Isla Grande de Tierra del Fuego,
-Argentina, América del Sur, la Tierra. [Estamos transmitiendo en la banda Ka a
-32.3 GHz][1] a cualquiera que pueda escucharnos; este mensaje se transmitirá
-indefinidamente y será la última que hacemos con intensión de comunicarnos,
-pero la primera en nombre de toda la Humanidad.
+Argentina, América del Sur, planeta Tierra. [Estamos transmitiendo en la banda
+Ka a 32.3 GHz][1] a cualquiera que pueda escucharnos; este mensaje se
+transmitirá indefinidamente y será la última que hacemos con intensión de
+comunicarnos, pero la primera en nombre de toda la Humanidad.
 
 Mi nombre es... irrelevante ahora. Sólo soy un instrumento con el único
 propósito de transmitir este mensaje de agradecimiento. Tenemos en nuestro
@@ -61,13 +61,14 @@ por completo, las aguas se retiraron porque yo ya no era una isla solitaria en
 el mundo.
 
 Y así el nuevo don se esparció entre las personas tan rápido como avanza el
-día y la forma del mundo cambió para siempre. Los libros se leen sólo una vez y
+día y la forma de éste cambió para siempre. Los libros se leen sólo una vez y
 la Humanidad entera puede compartir lo que el lector sintió. Ya no hay
 escuelas, o al menos no son como antes: los niños se sientan unos con otros,
 tomados de la mano durante horas compartiendo lo que hay en sus mentes, en sus
 corazones. Es hermoso verlos en silencio y vivir el pasado de sus padres, de
 sus abuelos. Pero cada vez tenemos menos preguntas sin respuesta y eso ha
-provocado que dejemos de mirar hacia arriba, al horizonte.
+provocado que dejemos de mirar hacia arriba, al horizonte. Puede que sea el
+precio a pagar por un tesoro tan grande; espero que no estemos equivocados.
 
 Encontramos un mundo nuevo dentro de nosotros, un mundo mucho más grande que lo
 que puede haber afuera. Fue cuando apagamos todo: no más señales de televisión,
