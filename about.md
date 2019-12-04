@@ -68,8 +68,7 @@ tal vez publicar un libro :). ¡Ya veremos!
       aspectos, lo que hace plena mi vida y desde entonces siempre tengo algo
       para leer abajo del brazo a donde quiera que vaya.
 
-      También escribo en [http://ariel17.com.ar] sobre programación y otras
-      yerbas.
+      También escribo en [mi blog][2] sobre programación y otras yerbas.
     </p>
   </div>
 </div>
@@ -77,3 +76,4 @@ tal vez publicar un libro :). ¡Ya veremos!
 <br />
 
 [1]: https://www.yorokobu.es/proyecto-bradbury/
+[2]: http://ariel17.com.ar 
