@@ -32,7 +32,7 @@ cuentos malos consecutivos."*
 
 Y dado que ambos solíamos escribir historias en papeles sueltos y muchas (sino
 la mayoría) nunca conocían el final, pensamos que ya era hora de materializar
-nuestro hobbie y también de superar nuestras propias barreras. Y quién sabe,
+nuestro hobby y también de superar nuestras propias barreras. Y quién sabe,
 tal vez publicar un libro :). ¡Ya veremos!
 
 <br />
@@ -59,7 +59,16 @@ tal vez publicar un libro :). ¡Ya veremos!
   </div>
   <div class="col-sm-12 col-md-6">
     <p>
-      TODO
+      Trabajo como desarrollador de software y durante el día trato de
+      dedicarme a algunos hobbies, como tocar la guitarra y escribir un poco.
+
+      Me encontré con el placer de la lectura de muy grande y no supe hasta
+      entonces de lo que me estaba perdiendo. Descubrí que era, en muchos
+      aspectos, lo que hace plena mi vida y desde entonces siempre tengo algo
+      para leer abajo del brazo a donde quiera que vaya.
+
+      También escribo en [http://ariel17.com.ar] sobre programación y otras
+      yerbas.
     </p>
   </div>
 </div>
