@@ -59,8 +59,9 @@ tal vez publicar un libro :). ¡Ya veremos!
   </div>
   <div class="col-sm-12 col-md-6">
     <p>
-      Trabajo como desarrollador de software y durante el día trato de
-      dedicarme a algunos hobbies, como tocar la guitarra y escribir un poco.
+      Soy el papá de Martín :). Trabajo como desarrollador de software y
+      durante el resto del día trato de dedicarme a algunos hobbies, como tocar
+      la guitarra y escribir un poco.
 
       Me encontré con el placer de la lectura de muy grande y no supe hasta
       entonces de lo que me estaba perdiendo. Descubrí que era, en muchos
