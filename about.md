@@ -45,7 +45,10 @@ tal vez publicar un libro :). ¡Ya veremos!
   </div>
   <div class="col-sm-12 col-md-6">
     <p>
-      TODO
+      Mi nombre es Martín y soy lector (y un poco escritor). Inicié ésto junto
+      a mi papá para acostumbrarme a escribir y conocernos mejor. Hasta ahora
+      mi primer cuento es <a href="{% post_url 2019-11-20-tocan-la-ventana %}">Tocan la ventana</a>
+      y espero lo disfruten.
     </p>
   </div>
 </div>
@@ -68,7 +71,8 @@ tal vez publicar un libro :). ¡Ya veremos!
       aspectos, lo que hace plena mi vida y desde entonces siempre tengo algo
       para leer abajo del brazo a donde quiera que vaya.
 
-      También escribo en [mi blog][2] sobre programación y otras yerbas.
+      También escribo en <a href="http://ariel17.com.ar">mi blog</a> sobre
+      programación y otras yerbas.
     </p>
   </div>
 </div>
