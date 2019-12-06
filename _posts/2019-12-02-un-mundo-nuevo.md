@@ -93,7 +93,9 @@ La Tierra seguirá su viaje inmutable alrededor de nuestra estrella, en
 silencio. No habrán más transmisiones de radio ni de televisión, excepto esta.
 Nos tomará tiempo volver a saber qué decirles, pero no nos preocupa. Dejamos de
 contar el tiempo que pasa porque también es irrelevante. Sólo los radio-faros
-quedarán encendidos. Uds. tampoco estarán solos.
+quedarán encendidos.
+
+Uds. tampoco estarán solos.
 
 Adiós.
 
