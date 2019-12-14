@@ -1,6 +1,7 @@
 ---
 layout: post
 title: El reflejo en el espejo
+subtitle: Los demonios del pasado vienen a buscarte.
 background: "/assets/post/peter-vechkasov-mirror-01.jpg"
 artist: artstation.com/pitos
 author: Ariel Gerardo Ríos
