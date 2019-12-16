@@ -82,3 +82,36 @@
     });
   </script>
 {% endif %}
+
+<script>
+  $(function(){
+    $("a#twitter").click(function(){
+      gtag('event', 'click', {
+        'event_category': 'social',
+        'event_label': 'twitter',
+        'value': 'twitter'
+      });
+    });
+    $("a#facebook").click(function(){
+      gtag('event', 'click', {
+        'event_category': 'social',
+        'event_label': 'facebook',
+        'value': 'facebook'
+      });
+    });
+    $("a#github").click(function(){
+      gtag('event', 'click', {
+        'event_category': 'social',
+        'event_label': 'github',
+        'value': 'github'
+      });
+    });
+    $("a#rss").click(function(){
+      gtag('event', 'click', {
+        'event_category': 'social',
+        'event_label': 'rss',
+        'value': 'rss'
+      });
+    });
+  });
+</script>
