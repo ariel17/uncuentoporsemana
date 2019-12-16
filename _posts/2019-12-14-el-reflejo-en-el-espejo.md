@@ -22,7 +22,7 @@ casa arruinando el poco espacio que teníamos. Sentía un aura de demencia
 sofocando el aire que lo rodeaba.
 
 Me levanté y tropecé con el sillón pero no dejé caer el arma. El sudor me
-entraba en los ojos y me picaban los ojos, eso me hacía enojar más.
+entraba en los ojos y me picaban, eso me hacía enojar más.
 
 -- Vamos a dar un paseo --le dije. Cuando vio el arma en mi mano izquierda, el
    aire abandonó su cuerpo en forma de suspiro.
