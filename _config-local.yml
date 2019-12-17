@@ -5,6 +5,7 @@ author: Martín Gabriel Ríos & Ariel Gerardo Ríos
 url: "http://localhost:4000"
 baseurl: ""
 timezone: America/Argentina/Buenos_Aires
+background: /assets/index/bg.jpg
 
 # Google Analytics
 ga:
@@ -21,3 +22,5 @@ paginate_path: "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
+
+subscription_url: https://mailchi.mp/61b591e19246/uncuentoporsemana

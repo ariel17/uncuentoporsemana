@@ -22,3 +22,5 @@ paginate_path: /posts/page:num/
 plugins:
   - jekyll-feed
   - jekyll-paginate
+
+subscription_url: https://mailchi.mp/61b591e19246/uncuentoporsemana
