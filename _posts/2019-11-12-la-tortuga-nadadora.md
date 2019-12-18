@@ -12,7 +12,7 @@ date: 2019-11-12 22:35 -0300
 ---
 Bernardo era un tortugo. Era un tortugo porque nació tortugo; y para peor,
 ¡tortugo de tierra! Su mamá también era una tortuga de tierra y los dos vivían
-felices comiendo ojitas y flores. También disfrutaban la sombra de los árboles
+felices comiendo hojitas y flores. También disfrutaban la sombra de los árboles
 que crecían cerca del río que pasaba por ahí, pero su mamá no le dejaba
 acercarse mucho.
 

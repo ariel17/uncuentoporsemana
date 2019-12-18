@@ -50,13 +50,13 @@ con el espejo repitiendo la imagen grotesca.
 
 Con mis 16 años me fui de esa casa y quise prenderla fuego, pero no sabía cómo.
 Pensé que había sobrevivido a ese pasado cuando cumplí 30 años sin pegarme un
-tiro en la sién o haberme tirado a las vías del tren, pero todo había sido
+tiro en la sien o haberme tirado a las vías del tren, pero todo había sido
 magia de las drogas. Ya no me alcanzaba con lo que robaba y ahora, con un bebé
 en camino, todo el dinero se iba allí. Maldita sea, ni siquiera estaba seguro
 de que fuese mío... La desgracia me seguía persiguiendo de una forma u otra. Ni
 siquiera amaba a Julieta cuando estaba conmigo, sólo en las ausencias.
 
--- ¡No quiero más remedios! ¡No quiero nada de todo ésto!
+-- ¡No quiero más remedios! ¡No quiero nada de todo esto!
 
 La golpeé en la cara y cayó al suelo. La vi agarrarse del vientre para
 protegerlo y en un arrebato de cordura sentí algo parecido al remordimiento.
@@ -73,7 +73,7 @@ el cuerpo por la herida con mucha rapidez.
 
 Me quedé mirando el cielo sintiendo cada vez más frío. La sangre caliente
 formaba un charco bajo mi espalda. Giré mi cabeza y la vi a Julieta aún con la
-astilla en la mano y mi miraba; en su brazo derecho tenía dos cicatrices largas
+astilla en la mano y me miraba; en su brazo derecho tenía dos cicatrices largas
 y con la mano izquierda se cortaba para crear una tercera.
 
 Fin.

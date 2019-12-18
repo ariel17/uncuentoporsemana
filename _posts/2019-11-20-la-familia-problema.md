@@ -44,6 +44,6 @@ problema que no pueda solucionarse.
 
 Así eran los días de los cuatro integrantes de esta familia; mamá, papá,
 Julián y José... ¿Cuatro dije? ¡Cinco! Otro problema en camino! Pero...
-¿Alguien vió a la señorita del jardín?? ¡Parece que se fue de vacaciones!
+¿Alguien vio a la señorita del jardín?? ¡Parece que se fue de vacaciones!
 
 Fin.
