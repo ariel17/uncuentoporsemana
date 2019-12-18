@@ -113,6 +113,13 @@
         'value': 'rss'
       });
     });
+    $("a#subscription").click(function(){
+      gtag('event', 'click', {
+        'event_category': 'link',
+        'event_label': 'subscription',
+        'value': 'subscription'
+      });
+    });
   });
 </script>
 
