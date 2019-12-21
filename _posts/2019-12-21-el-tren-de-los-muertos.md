@@ -2,12 +2,13 @@
 layout: post
 title: El tren de los muertos
 author: Ariel Gerardo Ríos
-background: /assets/post/muyoung-kim-armor-train-yard-concept.jpg
+background: "/assets/post/muyoung-kim-armor-train-yard-concept.jpg"
 artist: artstation.com/muyoung
-tags: [ficción]
+tags:
+- ficción
 comments: true
+date: 2019-12-21 00:08 -0300
 ---
-
 La estación de tren le hacía frente al viento constante, de lado. Tanto años
 haciéndole frente había dejado al descubierto los ladrillos que formaban la
 estructura y cada día que pasaba el grosor de éstos iba disminuyendo un poco
