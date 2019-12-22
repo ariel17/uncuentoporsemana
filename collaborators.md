@@ -18,10 +18,16 @@ cuándo te dedicás a escribir. ¡No hacemos filtros! Nuestra intención es darl
 la bienvenida a todos los que quieran participar y ayudar a que se conozcan
 nuevos autores. ¿¿Te vas quedar afuera??
 
-
-¡Abrazo!<br>
+¡Abrazo!<br />
 Martín y Ariel.
+
+## Escritor@s que ya publicaron sus cuentos
+
+* Micaela Ailén Ríos: ["Un cuento en un poema"][4]
+* Nicolás Sebastián Ríos: ["El pececito sin familia"][5]
 
 [1]: mailto:uncuentoporsemana@gmail.com
 [2]: https://facebook.com/uncuentoporsemana
 [3]: https://twitter.com/1cuentoxsemana
+[4]: {% post_url 2019-12-21-un-cuento-en-un-poema %}
+[5]: {% post_url 2019-12-21-el-pececito-sin-familia %}
