@@ -36,7 +36,7 @@ layout: default
           <h2 class="subheading">{{ page.subtitle }}</h2>
           {% endif %}
           <span class="meta">Por {{ page.author }} / {{ page.date | spanish_format }}</span>
-          <span class="meta"><small>Arte de <a href="http://{{ page.artist }}">{{ page.artist }}</a></small></span>
+          {% if page.artist %}<span class="meta"><small>Arte de <a href="http://{{ page.artist }}">{{ page.artist }}</a></small></span>{% endif %}
           {% for tag in page.tags %}
             <span class="badge badge-info">{{ tag }}</span>
           {% endfor %}

@@ -35,7 +35,7 @@ layout: default
           <article class="post-preview">
             <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
               <div class="post-container">
-                <div class="post-img-container" title="Image by {{post.artist}}">
+                <div class="post-img-container" {% if post.artist %}title="Image by {{post.artist}}"{% endif %}>
                   <img class="post-img" src="{{ post.background | prepend: site.baseurl | replace: '//', '/' }}">
                 </div>
                 <div class="post-text">
