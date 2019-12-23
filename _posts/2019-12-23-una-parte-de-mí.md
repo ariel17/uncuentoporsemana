@@ -22,15 +22,14 @@ silencio. No hay nada que pueda decir que le haga justicia a la situación.
 
 Volvemos en colectivo a casa, es todavía de mañana. *Casa* es aún un término
 con significados diferentes para cada uno y no está claro si en algún momento
-va a cambiar su significado. Tengo 23 años, ella 20. Nos despedimos, yo me
-quedo en la esquina de mi cuadra, viéndola alejarse, llevándose consigo una
-parte mí que antes no existía: ahora yo no soy *sólo yo* en el mundo, soy yo y
-una parte más que no sabía que existía. Quizás porque hasta hace unas horas
-sólo era una incógnita, podría decir que tenía la forma de "un problema que hay
-que solucionar", un "¿nos alcanzará lo que gano?" o un temeroso "¿vamos a vivir
-juntos?" que se quedaba sin respuesta. A partir de ese instante y para siempre
-supe -y aún hoy lo recuerdo- que ya no sólo vivía dentro de los límites de mi
-cuerpo y mi mente.
+va a cambiar. Tengo 23 años, ella 20. Nos despedimos, yo me quedo en la esquina
+de mi cuadra, viéndola alejarse, llevándose consigo una parte mía que antes no
+existía: ahora yo no soy *sólo yo* en el mundo, soy yo y una parte más, en otra
+parte. Quizás porque hasta hace unas horas sólo era una incógnita, podría decir
+que tenía la forma de *"un problema que hay que solucionar"*, un *"¿nos
+alcanzará lo que gano?"* o un temeroso *"¿vamos a vivir juntos?"* que se
+quedaba sin respuesta. A partir de ese instante y para siempre supe -y aún hoy
+lo recuerdo- que ya no sólo vivía dentro de los límites de mi cuerpo y mi mente.
 
 Estoy muy asustado. Cuando me levanté por la mañana pensaba que había sido todo
 lo que podía ser: un adolescente desafiante, despreocupado, irresponsable, que
@@ -44,7 +43,8 @@ para nada de lo que se viene. Y mañana otra y pasado también.
 
 Miro por la ventana del tren que me lleva al centro la gente que sigue con su
 vida cotidiana, inalterable. Nada se detiene por nadie, pareciera que nadie es
-importante. Tengo tantos pensamientos que parece que lleve dentro de mi cabeza:
+importante. Tengo tantos pensamientos que parece que llueve dentro de mi
+cabeza:
 
 -- *Me siento solo.*<br />
 -- *¿Cómo se agarra un bebé?*<br />
