@@ -2,8 +2,8 @@
 layout: post
 title: Una vida en solitario
 author: Micaela Ailén Ríos
-background:
-artist:
+background: /assets/post/marija-savikj-wwwww.jpg
+artist: artstation.com/marisavi
 tags: [colaboración]
 comments: true
 ---
@@ -40,7 +40,8 @@ orfanato cuando era chico por mi condición, así que ni ellos me amaban. Así q
 como dice el refrán: *"es lindo estar solo pero de ves en cuando se necesita
 tener a alguien a tu lado a quien amar o que te haga sentirte amado"*.
 
-Bueno, gracias por escuchar mi historia trágica y vuelve cuando quieras.
+Bueno, gracias por escuchar mi historia trágica y vuelve cuando quieras. Pero
+la próxima vez, trae algo para comer.
 
 *Cierra la puerta*
 
