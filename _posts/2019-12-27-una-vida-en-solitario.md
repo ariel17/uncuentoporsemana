@@ -40,9 +40,13 @@ orfanato cuando era chico por mi condición, así que ni ellos me amaban. Así q
 como dice el refrán: *"es lindo estar solo pero de ves en cuando se necesita
 tener a alguien a tu lado a quien amar o que te haga sentirte amado"*.
 
-Bueno, gracias por escuchar mi historia trágica y vuelve cuando quieras. Pero
-la próxima vez, trae algo para comer.
+Bueno, gracias por escuchar mi historia trágica y vuelve cuando quieras. ¡Pero
+la próxima vez, trae algo para comer!
 
 *Cierra la puerta*
 
 Fin
+
+## Otros cuentos de Micaela
+
+* ["Un cuento en un poema"][4]

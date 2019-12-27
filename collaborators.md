@@ -23,11 +23,16 @@ Martín y Ariel.
 
 ## Escritor@s que ya publicaron sus cuentos
 
-* Micaela Ailén Ríos: ["Un cuento en un poema"][4]
-* Nicolás Sebastián Ríos: ["El pececito sin familia"][5]
+### Micaela Ailén Ríos
+* ["Un cuento en un poema"][4]
+* ["Una vida en solitario"][6]
+
+### Nicolás Sebastián Ríos
+* ["El pececito sin familia"][5]
 
 [1]: mailto:uncuentoporsemana@gmail.com
 [2]: https://facebook.com/uncuentoporsemana
 [3]: https://twitter.com/1cuentoxsemana
 [4]: {% post_url 2019-12-21-un-cuento-en-un-poema %}
 [5]: {% post_url 2019-12-21-el-pececito-sin-familia %}
+[6]: {% post_url 2019-12-27-una-vida-en-solitario %}
