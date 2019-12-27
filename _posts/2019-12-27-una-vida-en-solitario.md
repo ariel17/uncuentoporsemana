@@ -49,4 +49,4 @@ Fin
 
 ## Otros cuentos de Micaela
 
-* ["Un cuento en un poema"][4]
+* ["Un cuento en un poema"]({% post_url 2019-12-21-un-cuento-en-un-poema %})
