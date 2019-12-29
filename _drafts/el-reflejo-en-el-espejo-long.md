@@ -1,6 +1,7 @@
 ---
 layout: post
 title: El reflejo en el espejo
+background: /assets/post/wip.jpg
 ---
 
 Mientras caminaba detrás de la abogada por el pasillo que llevaba a la cocina
