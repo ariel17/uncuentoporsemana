@@ -17,8 +17,6 @@ ver del castillo que vigila las aguas que llegan hasta las montañas, porque
 estaban en guerra, aunque la gente del pueblo no había derramado una gota de
 sangre en más de 80 años. Eso, sin embargo, estaba a punto de cambiar.
 
-![Mapa del reino](/assets/post/map-4.png)
-
 El soldado caminaba deprisa. Había desmontado el caballo hacía sólo minutos y
 traía un mensaje con suma importancia. A su paso dejaba rastros de barro del
 bosque de nísperos y álamos que aún tenía pegado en las botas de su armadura.
@@ -42,6 +40,8 @@ dioses de nuestro lado.
 -- Claro. Casi lo olvidaba --dijo el rey con la mirada perdida en otra parte.
 Habían cuestiones que turbaban su pensamiento más que consentir a los dioses:
 jamás había estado entre su prioridades.
+
+![Mapa del reino](/assets/post/map-4.png)
 
 Su hijo le habría planteado una larga discusión sobre el sentido de las
 acciones que estaba a punto de realizar y siempre terminaban en un grito de
