@@ -26,7 +26,7 @@ Assuming there are no errors and the site is building properly, follow these ste
 
 1. Create the following pages if they do not exist already (or change the extension of exsiting markdown files from `.md` to `.html`):
    - `index.html` - set to `layout: home`
-   - `about.html` - set to `layout: page`
+   - `about.md` - set to `layout: page`
    - `contact.html` - set to `layout: page`
    - `posts/index.html` - set to `layout: page` (you will also need to create a `posts` directory)
 
@@ -39,7 +39,7 @@ background: '/PATH_TO_IMAGE'
 ---
 ```
 
-3. Configure the `about.html`, `contact.html`, and `posts/index.html` front matter. Example:
+3. Configure the `about.md`, `contact.html`, and `posts/index.html` front matter. Example:
 
 ```
 ---
@@ -59,6 +59,9 @@ title: "Post Title"
 subtitle: "This is the post subtitle."
 date: YYYY-MM-DD HH:MM:SS
 background: '/PATH_TO_IMAGE'
+author: John Doe
+comments: true
+tags: [children, short]
 ---
 ```
 

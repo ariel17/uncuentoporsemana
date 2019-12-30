@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.2] - ?
 ### Added
 - Funding file.
+- More post fields.
 
 ## [1.0.1] - 2019-12-28
 ### Fixed
