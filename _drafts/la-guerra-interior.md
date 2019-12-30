@@ -33,6 +33,86 @@ No estaba solo, por supuesto: sus súbditos más fieles y confidentes compartía
 la estancia. La guerra tenía demasiados frentes que sin ayuda no podía
 controlar.
 
+-- Al fin. Preparen mi caballo, nos vamos a su encuentro. Avísenle al sacerdote
+que nos alcance en el camino.
+
+-- Alteza, con gusto oficiaremos de testigos para celebrar la conquista con los
+dioses de nuestro lado.
+
+-- Claro. Casi lo olvidaba --dijo el rey con la mirada perdida en otra parte.
+Habían cuestiones que turbaban su pensamiento más que consentir a los dioses:
+jamás había estado entre su prioridades.
+
+Su hijo le habría planteado una larga discusión sobre el sentido de las
+acciones que estaba a punto de realizar y siempre terminaban en un grito de
+silencio de su parte. Con el sol de la tarde de frente, sintió su presencia a
+su lado, pero el caballo iba solitario en medio de una comitiva pequeña: el
+soldado por delante marcando el camino y los fieles nobles por detrás. Años
+habían pasado desde la última vez que lo vio y la herida más grande no era la
+ausencia, sino descubrir que los unía todas esas cosas que no tenían en común.
+
+Los dos de atrás que cerraban la marcha intercambiaban miradas preocupadas cada
+cierta cantidad de pasos.
+
+Llegaron a lo que quedaba del Bosque de los Susurros. Los álamos gigantes se
+perdían en la altura y cortaban el viento con un aullido tan claro que parecía
+que hablaban entre sí. Aún quedaban algunos troncos aquí y allá de los nísperos
+milenarios que antes ocupaban toda esta tierra, hasta que su padre llegó con su
+conquista, arrasando toda la extensión de los árboles y la gente que vivía en
+él. Sólo dejó unas hectáreas a forma de burla hacia los lugareños: a partir de
+entonces se llamaría el Bosque de los Decapitados.
+
+Nunca encontraron al sacerdote en el camino. Cuando llegaron al tocón para los
+decapitados ya estaba ahí, sentado y arrancándole lo que le quedaba de carne a
+una pata de cerdo. La impresión que daba es que la situación le importaba una
+mierda... Y era cierto.
+
+-- ¿Podrías por lo menos ponerte de pié? Su alteza ya está con nosotros --dijo
+uno de los nobles pateando el tronco donde estaba sentado el religioso--
+¿Tienes afilada la espada por lo menos?
+
+-- Yo siempre cumplo con mi trabajo antes de comer.
+
+Tiró el hueso con un envión del brazo y se puso la capa abrochada al cuello que
+lo identificaba como oficiante de la ceremonia. Mientras, el tercero traía al
+prisionero encapuchado. Una vez frente al tocón, le pateó las rodillas para que
+se agachara y golpeara su cara contra la superficie de madera; las manos atadas
+las agarraba con fuerza con el brazo que no sostenía el vino.
+
+-- Jajaja... Me encanta hacerlos besar la mesa de las cabezas. ¿Ves la sangre
+de ahí, hijo de puta? Es la de tus seguidores. Eran todos unos cobardes: los
+hombres gritaron más fuerte que las mujeres y los niños.
+
+A todo ésto, el rey miraba la faena pero no mostraba ningún interés en
+participar. Guardaba silencio, después de todo, estos hombres hacían todo el
+trabajo sucio que era necesario. La guerra que llevó a la gloria al reino de su
+padre nunca había terminado pero él nunca había empezado. Encontró la forma de
+no ensuciarse las manos por terceros y mantenerse al margen de cortar cabezas,
+aunque matar al líder de sus enemigos le pertenecía a él. Era la religión la
+que lo mandaba.
+
+-- La espada de su padre, mi señor, limpia de la sangre de sus enemigos.
+Hambrienta busca saciar otra vez su sed de venganza contra los que quieren ver
+el fin de vuestro linaje.
+
+-- Quítenle la capucha. Quiero ver los ojos del hombre que va a morir.
+
+Hubo un intercambio rápido de miradas entre los nobles, pero ninguno dio un
+paso para hacer el mandato.
+
+-- Mi señor, no es necesario hacerl...
+
+-- Quiero hacerlo una vez al menos como lo hacía mi padre. ¡Ahora!
+
+La capucha que se retiraba dio paso a un rostro, con la sangre que le corría
+desde la nariz hasta el mentón. Tenía un ojo tan morado que no podía abrirlo y
+más marcas de una paliza anterior. La noche ya había caído en el bosque y
+alguien prendió unas antorchas sin que se lo pidiesen. El prisionero miró a los
+que lo rodeaban y fijó su mirada en el rey.
+
+-- ¿Qué... Qué es esto? --dijo el rey.
+
+
 
 ## Notas
 
