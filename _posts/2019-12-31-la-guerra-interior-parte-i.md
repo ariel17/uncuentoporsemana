@@ -13,10 +13,10 @@ date: 2019-12-31 00:19 -0300
 La red del pescador cae con destreza en el agua moviendo la sutil superficie.
 En su bote, al pié de la muralla que se eleva 30 metros, lleva adelante su
 rutina diaria; una vida sin sobresaltos, tranquila, igual que la brisa fría
-característica de las tierras centrales. La muralla que es lo que se alcanza a
-ver del castillo que vigila las aguas que llegan hasta las montañas, porque
-estaban en guerra, aunque la gente del pueblo no había derramado una gota de
-sangre en más de 80 años. Eso, sin embargo, estaba a punto de cambiar.
+característica de las tierras centrales. La muralla es lo que se alcanza a ver
+del castillo que vigila las aguas que llegan hasta las montañas, porque estaban
+en guerra, aunque la gente del pueblo no había derramado una gota de sangre en
+más de 80 años. Eso, sin embargo, estaba a punto de cambiar.
 
 El soldado caminaba deprisa. Había desmontado el caballo hacía sólo minutos y
 traía un mensaje con suma importancia. A su paso dejaba rastros de barro del
