@@ -38,18 +38,18 @@ preguntas y que me cuente sus anécdotas y experiencias.
 
 *Llega a la aldea y baja del auto*
 
--- ¡¿Hola?! Soy Robert, el periodista, que hablo con usted para hacer hoy la
+-- ¡¿Hola?! Soy Robert, el periodista, que habló con usted para hacer hoy la
 entrevista.
 
 *Ve salir a un hombre con un estilo de coroza con plumas*
 
 -- ¿U-usted es el Cacique? 
 
--- Si, soy yo --dice el cacique--. Entra y si quieres empezamos ya mismo.
+-- Si, soy yo --dice--. Entra y si quieres empezamos ya mismo.
 
 *Respira profundo y se relaja.* 
 
--- Bueno empecemos: ¿Usted a que edad se hizo Cacique? ¿Y cómo es el tema de
+-- Bueno empecemos: ¿Usted a qué edad se hizo Cacique? ¿Y cómo es el tema de
 convertirse en uno? ¿Tiene algún ritual o algo parecido? Obvio, sin ofender, y
 no es obligación que me responda.
 
@@ -61,17 +61,17 @@ aldea.
 
 -- Guau, interesante y ¿cómo es el trabajo de un Cacique? 
 
--- El trabajo de un Cacique es mantener todo en orden tanto dentro de la aldea,
-como fuera, para que este lo más tranquilo posible.
+-- El trabajo de un Cacique es mantener todo en orden tanto dentro de la aldea
+como fuera, para que esté lo más tranquilo posible.
 
-*"Y así paso el tiempo y las horas hasta que llego el final de la entrevista. Yo
-ahora vuelvo a mi casa lleno de nuevos conocimientos y feliz por conocer a un
-gran hombre luchador y valiente por su gente."*
+*"Y así paso el tiempo y las horas hasta que llegó el final de la entrevista.
+Yo ahora vuelvo a mi casa lleno de nuevos conocimientos y feliz por conocer a
+un gran hombre luchador y valiente por su gente."*
 
 *Entusiasmado* 
 
 -- Robert hiciste un gran trabajo hoy.
 
-*Se pone el piyama y se va a dormir.*
+*Se pone el pijama y se va a dormir.*
 
 Mañana será otro gran día Robert.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bibioteca
+title: Biblioteca
 author: Martín Gabriel Ríos (actual egresado de 6º grado)
 background: "/assets/post/andreas-rocha-oldbookshop02.jpg"
 artist: artstation.com/andreasrocha
