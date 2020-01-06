@@ -26,9 +26,14 @@ Martín y Ariel.
 ### Micaela Ailén Ríos
 * ["Un cuento en un poema"][4]
 * ["Una vida en solitario"][6]
+* ["Entrevista a un aborigen"][7]
 
 ### Nicolás Sebastián Ríos
 * ["El pececito sin familia"][5]
+
+### Jorge Luis Espinosa
+* ["Aromas"][8]
+* ["No se puede"][9]
 
 [1]: mailto:uncuentoporsemana@gmail.com
 [2]: https://facebook.com/uncuentoporsemana
@@ -36,3 +41,6 @@ Martín y Ariel.
 [4]: {% post_url 2019-12-21-un-cuento-en-un-poema %}
 [5]: {% post_url 2019-12-21-el-pececito-sin-familia %}
 [6]: {% post_url 2019-12-27-una-vida-en-solitario %}
+[7]: {% post_url 2020-01-05-entrevista-a-un-aborigen %}
+[8]: {% post_url 2020-01-05-aromas %}
+[9]: {% post_url 2020-01-05-no-se-puede %}
