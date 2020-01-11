@@ -10,6 +10,7 @@ tags:
 - ficción
 date: 2019-12-31 18:49 -0300
 ---
+
 ## Bitácora personal: Día 1 del Año 1
 
 Hoy es el primer día de la colonización. Por suerte la cúpula se desplegó
@@ -17,12 +18,12 @@ correctamente en el suelo luego de entrar en la débil atmósfera del planeta
 **Matha Diseth**, mi nuevo hogar a partir de ahora. Mi viaje no fue tan
 turbulento, por suerte tenemos los *conductores*, que no son más que agujeros
 de gusano artificiales entre dos puntos conocidos del espacio. Mi cúpula tenía
-un transportador y en a Marte había otro; sólo tuve que apretar un botón para
+un transportador y en Marte había otro; sólo tuve que apretar un botón para
 llegar hasta aquí. Me espera mucho trabajo: la cúpula es sólo una cúpula, tengo
 que construir mi hogar dentro de ella, cosechar mis verduras y traerme unos
 animales para que me hagan compañía (y alimento, ¡por supuesto!).
 
-Quise dejar todo en a Marte, mi pasado. El único recuerdo que me traje fue
+Quise dejar todo en Marte, mi pasado. El único recuerdo que me traje fue
 el reloj de mi abuelo, que me regaló cuando tenía 12 años: fue el último hecho
 a mano en el mundo de acero inoxidable.
 
