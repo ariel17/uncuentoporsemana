@@ -113,10 +113,11 @@ que lo rodeaban y fijó su mirada en el rey.
 
 -- ¿Qué... Qué es esto? ¿Qué haces aquí? --dijo el rey.
 
-CONTINUARÁ.
+CONTINÚA en ["La guerra interior - Parte II"][2].
 
 ## Notas
 
 El mapa fue creado mediante [Fantasy Map Generator][1].
 
 [1]: https://azgaar.github.io/Fantasy-Map-Generator/
+[2]: {% post_url 2020-01-11-la-guerra-interior-parte-ii %}
