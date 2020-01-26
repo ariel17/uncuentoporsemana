@@ -22,11 +22,11 @@ El descenso al planeta era inevitable e incontrolable. El piloto, que había
 vuelto a vivir luego de 200 años de inconsciencia, se enfrentaba otra vez a la
 posibilidad de la muerte. Sentía gratitud por su nave: lo protegió durante
 tanto tiempo pero ahora se estaba muriendo. El contacto con la atmósfera a tan
-alta velocidad comnenzó a incinerar la capa exterior de la dañada nave,
+alta velocidad comenzó a incinerar la capa exterior de la dañada nave,
 desarmándola cada vez más. El piloto cruzó sus brazos tomándose por los hombros
 y cerró los ojos; les deseó buena suerte a los dos.
 
-El rayo centellante cortaba las nubes a través de su viaje, que envolvían casi
+El rayo centelleante cortaba las nubes a través de su viaje, que envolvían casi
 todo el globo, como si protegiera lo que había en su interior. La luz hizo de
 día el hemisferio sumido en la oscuridad durante tantos momentos que el sueño
 de los seres que yacían en el suelo fue interrumpido y sus ojos siguieron el
@@ -66,17 +66,17 @@ cantimplora en los labios--. Soy Zihrâ. ¿Tienes nombre?
 Murmullos de otras personas llamaron su atención. Tenía que tomar una decisión
 y rápido. Miró al extraño ser que acababa de conocer:
 
--- Volveré por tí. Lo prometo. --Y se alejó corriendo.
+-- Volveré por ti. Lo prometo. --Y se alejó corriendo.
 
 Otras voces llenaron el lugar y opacaron el sonido de las llamas con su clamor,
 caótico. Ragem levantó la cabeza cuanto pudo y vio una figura acercándose
-lentamente, con otros detrás, pálidos de piés a cabeza, con algo en sus manos.
+lentamente, con otros detrás, pálidos de pies a cabeza, con algo en sus manos.
 Fue entonces cuando se desmayó.
 
 Si tuvo sueños, no pudo recordarlos. Le ardían los ojos cuando despertó e
 intentó frotárselos, para darse cuenta que estaba atado de pies y manos sentado
 en el suelo. Luchando contra la picazón abrió los ojos y lanzó un grito al ver
-a uno de esos seres en cunclillas mirándolo fijamente. No era blanco, tenía el
+a uno de esos seres en cuclillas mirándolo fijamente. No era blanco, tenía el
 cuerpo pintado.
 
 -- Soy Ragem --dijo luego de unos minutos de miradas silenciosas--. No he
@@ -116,9 +116,9 @@ para entrar en la carne, un silbido estridente ascendió y llamó la atención d
 todos. El estallido de colores con fuertes ecos iluminaron el campamento y el
 caos se hizo presente. Los seres corrían despavoridos a medida que más
 estallidos y silbidos ocurrían. El cuchillo cayó al suelo; la muerte de Ragem y
-la profecía fueron reemplazados por miedo. Sin perder la oportunidad, Ragem
-tomó el cuchillo abandonado, cortó las riendas que lo reducían y se arrastró
-como pudo hacia las sombras.
+la profecía fueron reemplazados por miedo. Sin perder la oportunidad, tomó el
+cuchillo abandonado, cortó las riendas que lo reducían y se arrastró como pudo
+hacia las sombras.
 
 Una mano oscura lo tomó por el hombro y por sorpresa:
 
@@ -128,7 +128,8 @@ Zihrâ lo guió a través de los arbustos, aún iluminados por los fuegos en el
 aire que seguían estallando. Ragem la miró sin saber si estaba a salvo o en
 otra clase de peligro.
 
--- Te dije que volvería por ti --dijo Zihrâ.
+-- Te dije que volvería por ti.
 
 Y sonrió.
 
+CONTINUARÁ.
