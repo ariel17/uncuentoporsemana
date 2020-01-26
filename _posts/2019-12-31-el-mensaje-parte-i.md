@@ -114,7 +114,8 @@ Ahora creo que hubiese preferido ir a Marte.
 
 Fin de la bitácora.
 
-CONTINUARÁ.
+CONTINÚA en ["El mensaje - Parte II"][3].
 
 [1]: https://es.wikipedia.org/wiki/P%C3%A1jaro_Carpintero_Ruso
 [2]: https://es.wikipedia.org/wiki/Carbono-14
+[3]: {% post_url 2020-01-26-el-mensaje-parte-ii %}

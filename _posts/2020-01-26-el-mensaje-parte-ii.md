@@ -8,6 +8,11 @@ background: "/assets/post/james-ritossa-sphere.jpg"
 artist: artstation.com/jamesritossa3d
 comments: true
 ---
+
+Esta historia comienza en ["El mensaje - Parte I"][1].
+
+-------------------------------------------------------------------------------
+
 ## Bitácora personal: Día 1 del Año ?
 
 Ahora escribo en papel. Me costó mucho conseguirlo, pero pasaré a eso más
@@ -165,3 +170,5 @@ la hora.
 -- *Al final, mi vecino tenía razón. Te veré pronto, abuelo.*
 
 FIN.
+
+[1]: {% post_url 2019-12-31-el-mensaje-parte-i %}
