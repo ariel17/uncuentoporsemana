@@ -64,4 +64,39 @@ mismo.
 El bullicio de la zona de Once volvió a activarse en la vereda y luego de unos
 pasos en el sentido contrario por el que vino, sintió caer la persiana de metal
 que cerraba el negocio. No vio a nadie al otro lado de la vidriera. Ya dudaba
-siquiera de volver.
+siquiera en volver.
+
+Pero la puerta volvió a abrirse al otro día, a la misma hora, por la misma
+mujer. El mismo viejo, atrás del mostrador la miraba, pero en esta oportunidad
+no preguntó nada. Tenía un delantal de cocina atado a la altura de su cintura
+que estaba percudido por tantos lavados que apenas se percibían las manchas.
+La mujer se acercó por el camino que dejaban las reliquias en venta a cada lado
+arrugando la nariz debido al olor que llenaba el ambiente:
+
+-- Oh por favor... Qué fuerte. Me hace acordar a la cocina de mi abuela.
+
+-- El mondongo es una carne particular. Uno la ama o la odia, ¿vió?
+
+-- Puff.
+
+Le dijo "por allá" con el extremo de su mano huesuda y levantando las cejas,
+hacia una puerta oculta bajo la sombra de unas cortinas de paja. El aire
+caliente caliente de una cocina entró en los pulmones de la mujer y lo que vio
+coincidía con la imagen que se le formaba en su mente. Una cocina cálida en
+pleno invierno de un pariente cercano, lleno de amor para dar.
+
+-- Mentí. Nunca conocí a mis abuelos, pero acá siento la compañía. Mi mamá me
+decía que mi abuela se murió esperándome. Pero nunca me habló de mi abuelo; no
+contestaba mis preguntas.
+
+TODO cuenta el sufrimiento que siente.
+
+TODO le pide algo para tirar en el caldero.
+
+TODO le advierte, pero ella está decidida.
+
+TODO lo toma y se va a la casa.
+
+TODO muere.
+
+TODO viene una mujer embarazada y le entrega una botella nueva.
