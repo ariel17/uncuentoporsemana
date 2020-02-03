@@ -17,7 +17,8 @@ el piso. El ruido de la calle quedó por completo del otro lado del vidrio.
 
 -- ¿Hola?
 
--- Buenos días, señora. ¿Qué puedo hacer por Ud.?
+-- Buenos días, señora. ¿Qué puedo hacer por Ud.? --dijo un viejo, pelado,
+saliendo detrás del mostrador entre las sombras.
 
 -- Bueno, estem... Quería ver... lámparas. Sí, alguna lámpara de estilo
 antigüo.
@@ -29,8 +30,8 @@ interesantes. Cuidado con los piés.
 -- ¡Oh! Perdón. --Una mesa pequeña casi oculta a la vista viajó unos
 centímetros por el puntapié inesperado.
 
--- No se preocupe. Tenía que moverla y me olvidé, je. Aquí están. Hermosas,
-¿no? El decorado es de cuero verdadero.
+-- No se preocupe. Tenía que moverla y me olvidé. Aquí están. Hermosas, ¿no? El
+decorado es de cuero verdadero.
 
 -- Guau, sí. Muy hermosas...
 
@@ -41,7 +42,7 @@ dirección.
 
 -- Me alegra saber que hice un buen trabajo en el pasado.
 
--- Je, sí, yo también... En fin. Estoy interesada en algo. Algo espiritual. Me
+-- Sí, yo también... En fin. Estoy interesada en algo. Algo espiritual. Me
 dijeron que podría ayudarme.
 
 -- Ooh, entiendo. Me agarra de sorpresa la verdad, no tengo nada preparado.
@@ -57,9 +58,10 @@ a ver al hombre fijamente sin decir nada.
 La acompañó hasta la salida, más parecía que la llevaba afuera de prepo pero
 con gentileza.
 
--- Venga mañana por favor. Comenzaré con lo suyo ahora mismo.
+-- Venga mañana por favor, también a esta hora. Comenzaré con lo suyo ahora
+mismo.
 
 El bullicio de la zona de Once volvió a activarse en la vereda y luego de unos
-pasos, sintió caer la persiana de metal que cerraba el negocio. Se dio la
-vuelta, pero no vio a nadie del lado de adentro del negocio. Ya dudaba siquiera
-de volver, aunque realmente necesitaba su ayuda.
+pasos en el sentido contrario por el que vino, sintió caer la persiana de metal
+que cerraba el negocio. No vio a nadie al otro lado de la vidriera. Ya dudaba
+siquiera de volver.
