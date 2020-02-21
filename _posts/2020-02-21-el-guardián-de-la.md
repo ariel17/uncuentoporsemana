@@ -22,7 +22,7 @@ esfuerzos tendrán sus frutos pues hay pocas sombras en un día caluroso como
 -- Hola papá.<br />
 -- Gracias por quedarte y cuidar _la sombra_.<br />
 -- No fue nada. ¿Vamos a la pileta del parque?<br />
--- Por supuesto, sino no hubiésemo venido. Dejame que ponga las cosas y vamos.<br />
+-- Por supuesto, sino no hubiésemos venido. Dejame que ponga las cosas y vamos.<br />
 -- OK.<br />
 
 FIN
