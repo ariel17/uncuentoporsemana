@@ -30,6 +30,7 @@ Martín y Ariel.
 
 ### Nicolás Sebastián Ríos
 * ["El pececito sin familia"][5]
+* ["El cuento espacial"][10]
 
 ### Jorge Luis Espinosa
 * ["Aromas"][8]
@@ -44,3 +45,4 @@ Martín y Ariel.
 [7]: {% post_url 2020-01-05-entrevista-a-un-aborigen %}
 [8]: {% post_url 2020-01-05-aromas %}
 [9]: {% post_url 2020-01-05-no-se-puede %}
+[10]: {% post_url 2020-02-21-el-cuento-espacial %}
