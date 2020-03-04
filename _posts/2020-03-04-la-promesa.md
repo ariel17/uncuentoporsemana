@@ -45,7 +45,7 @@ piedras ni otras bestias que comerse, decidieron comerse unos a otros. Las caras
 callaron cuando comieron la propia carne y al encontrar lo que buscaban no
 pudieron detenerse. No quisieron. Llegó el momento en que sólo quedó uno,
 enorme, alto como una montaña, con la cabeza entre las nubes y carne de todos en
-su panza. Estaba satisfecho. Allí vio lo que habían hecho al mundo pequeño; ya
+su vientre. Estaba satisfecho. Allí vio lo que habían hecho al mundo pequeño; ya
 no habían piedras, ni agua ni otras bestias. Lloró de tristeza. Su cuerpo
 sucumbió a la culpa y sin esperarlo... Estalló como un volcán. La luz tan
 poderosa ocultó el Sol en pleno día. Esparció sobre el mundo toda el agua como
