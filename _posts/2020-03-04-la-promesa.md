@@ -10,6 +10,22 @@ tags:
 comments: true
 date: 2020-03-04 08:40 -0300
 ---
+
+Este cuento está dedicado a mis hermanos **Carlos Damián Ríos** y a **Dante
+Javier Ríos**.
+
+Nan: sos una constante en el camino de mi vida, mi confidente y consejero, la
+fuerza que me empuja hacia adelante y aprender. Gracias por enseñarme tanto.
+
+Dante: siempre miro las estrellas y pienso en tu nombre, esperando encontrarte
+algún día. ¡Tenemos mucho de qué contarnos!
+
+Los dos están presentes en cada cosa que escribo. Los amo con toda el alma.
+
+**¡Feliz Día de los Hermanos!**
+
+--------------------------------------------------------------------------------
+
 Vengan niños, el fuego está encendido. Alrededor, sí. Un círculo. Muy bien. Voy
 a contarles la historia de nuestro pueblo como me la contaron a mí y como se la
 contaron a mis padres y sus padres a ellos, antes de nosotros. Ellos ya no están
