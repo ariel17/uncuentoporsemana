@@ -8,34 +8,44 @@
       <div class="col-lg-8 col-md-10 mx-auto">
         <ul class="list-inline text-center">
           {% if site.twitter_username %}
-          <li class="list-inline-item">
-            <a id="twitter" href="https://www.twitter.com/{{ site.twitter_username }}">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
+            <li class="list-inline-item">
+              <a id="twitter" href="https://www.twitter.com/{{ site.twitter_username }}">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
           {% endif %}
           {% if site.facebook_username %}
-          <li class="list-inline-item">
-            <a id="facebook" href="https://www.facebook.com/{{ site.facebook_username }}">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
+            <li class="list-inline-item">
+              <a id="facebook" href="https://www.facebook.com/{{ site.facebook_username }}">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
           {% endif %}
           {% if site.github_username %}
-          <li class="list-inline-item">
-            <a id="github" href="https://github.com/{{ site.github_username }}">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
+            <li class="list-inline-item">
+              <a id="github" href="https://github.com/{{ site.github_username }}">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+          {% endif %}
+          {% if site.spotify_playlist %}
+            <li class="list-inline-item">
+              <a id="rss" href="https://open.spotify.com/playlist/{{ site.spotify_playlist }}">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-spotify fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
           {% endif %}
           <li class="list-inline-item">
             <a id="rss" href="/feed.xml">

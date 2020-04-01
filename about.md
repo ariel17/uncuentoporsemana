@@ -79,5 +79,12 @@ tal vez publicar un libro :). ¡Ya veremos!
 <br />
 <br />
 
+
+# La música que nos hace escribir
+
+<p>
+<iframe src="https://open.spotify.com/embed/playlist/4cdqPrHNp4t9Q0lQW3LUzF" width="70%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+</p>
+
 [1]: https://www.yorokobu.es/proyecto-bradbury/
 [2]: http://ariel17.com.ar 
