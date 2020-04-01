@@ -36,6 +36,9 @@ Martín y Ariel.
 * ["Aromas"][8]
 * ["No se puede"][9]
 
+### Francia Iniguez
+* ["El hada egoísta"][11]
+
 [1]: mailto:uncuentoporsemana@gmail.com
 [2]: https://facebook.com/uncuentoporsemana
 [3]: https://twitter.com/1cuentoxsemana
@@ -46,3 +49,4 @@ Martín y Ariel.
 [8]: {% post_url 2020-01-05-aromas %}
 [9]: {% post_url 2020-01-05-no-se-puede %}
 [10]: {% post_url 2020-02-21-el-cuento-espacial %}
+[11]: {% post_url 2020-04-01-el-hada-egoísta %}
