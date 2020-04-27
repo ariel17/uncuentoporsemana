@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Vivir, por sobre todas las cosas
+author: Ariel Gerardo Ríos
 background: "/assets/post/imx-ud-din-landscape.jpg"
 artist: artstation.com/imadawan
 tags:
