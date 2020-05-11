@@ -39,6 +39,9 @@ Martín y Ariel.
 ### Francia Iniguez
 * ["El hada egoísta"][11]
 
+### Eduardo G. García
+* ["Feliz cumpleaños"][12]
+
 [1]: mailto:uncuentoporsemana@gmail.com
 [2]: https://facebook.com/uncuentoporsemana
 [3]: https://twitter.com/1cuentoxsemana
@@ -50,3 +53,4 @@ Martín y Ariel.
 [9]: {% post_url 2020-01-05-no-se-puede %}
 [10]: {% post_url 2020-02-21-el-cuento-espacial %}
 [11]: {% post_url 2020-04-01-el-hada-egoísta %}
+[12]: {% post_url 2020-05-10-feliz-cumpleaños %}
