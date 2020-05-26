@@ -60,4 +60,4 @@ manera.
 El viejo apoyó su mano en el hombro del niño y se agachó lentamente, sin
 sacarle los ojos al hombre. La cruz había quedado arrojada en el suelo.
 
-CONTINUARÁ.
+CONTINÚA en [Parte V]({% post_url 2020-05-25-uno-de-nosotros-parte-v %}).
