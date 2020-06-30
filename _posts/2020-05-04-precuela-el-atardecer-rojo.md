@@ -2,7 +2,6 @@
 layout: post
 title: El atardecer rojo
 author: Martín Gabriel Ríos
-subtitle: Precuela de "Guerras S.C.P."
 background: "/assets/post/anais-ramade-red-city.jpg"
 artist: artstation.com/chowbanabun
 tags:
