@@ -31,6 +31,7 @@ Martín y Ariel.
 ### Nicolás Sebastián Ríos
 * ["El pececito sin familia"][5]
 * ["El cuento espacial"][10]
+* ["El cuento del tornado y los abuelos"][13]
 
 ### Jorge Luis Espinosa
 * ["Aromas"][8]
@@ -54,3 +55,4 @@ Martín y Ariel.
 [10]: {% post_url 2020-02-21-el-cuento-espacial %}
 [11]: {% post_url 2020-04-01-el-hada-egoísta %}
 [12]: {% post_url 2020-05-10-feliz-cumpleaños %}
+[13]: {% post_url 2020-07-21-el-cuento-del-tornado-y-los-abuelos %}
